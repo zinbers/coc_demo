@@ -1,0 +1,119 @@
+
+{
+	gl.supports_vertex_array_object: true
+	cocos2d.x.version: Quick-Cocos2dx-Community 3.6
+	gl.vendor: Intel
+	gl.supports_PVRTC: false
+	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+	cocos2d.x.compiled_with_profiler: false
+	gl.max_texture_size: 16384
+	gl.supports_ETC1: false
+	gl.supports_BGRA8888: false
+	cocos2d.x.build_type: RELEASE
+	gl.supports_discard_framebuffer: false
+	gl.supports_NPOT: true
+	gl.supports_S3TC: true
+	gl.version: 2.1 INTEL-10.6.33
+	gl.supports_ATITC: false
+	gl.max_texture_units: 16
+	cocos2d.x.compiled_with_gl_state_cache: true
+}
+
+
+Quick-Cocos2dx-Community C++ support ready.
+------------------------------------------------
+LOAD LUA FILE: /Users/zinber/work/test/src/main.lua
+------------------------------------------------
+[LUA-print] ===========================================================
+[LUA-print]               LOAD QUICK FRAMEWORK
+[LUA-print] ===========================================================
+[LUA-print] [INFO] 
+[LUA-print] [INFO] # DEBUG                        = 1
+[LUA-print] [INFO] #
+[LUA-print] [INFO] # device.platform              = mac
+[LUA-print] [INFO] # device.model                 = unknown
+[LUA-print] [INFO] # device.language              = cn
+[LUA-print] [INFO] # device.writablePath          = /Users/zinber/work/test/
+[LUA-print] [INFO] # device.directorySeparator    = /
+[LUA-print] [INFO] # device.pathSeparator         = :
+[LUA-print] [INFO] #
+libpng warning: iCCP: known incorrect sRGB profile
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_HEIGHT
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 960.00
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 640.00
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+[LUA-print] [INFO] # display.width                = 960.00
+[LUA-print] [INFO] # display.height               = 640.00
+[LUA-print] [INFO] # display.cx                   = 480.00
+[LUA-print] [INFO] # display.cy                   = 320.00
+[LUA-print] [INFO] # display.left                 = 0.00
+[LUA-print] [INFO] # display.right                = 960.00
+[LUA-print] [INFO] # display.top                  = 640.00
+[LUA-print] [INFO] # display.bottom               = 0.00
+[LUA-print] [INFO] # display.c_left               = -480.00
+[LUA-print] [INFO] # display.c_right              = 480.00
+[LUA-print] [INFO] # display.c_top                = 320.00
+[LUA-print] [INFO] # display.c_bottom             = -320.00
+[LUA-print] [INFO] #
+[LUA-print] dump from: [string "/Users/zinber/work/test/src/app/scenes/Battle..."]:69: in function 'touchListener_'
+[LUA-print] - "<var>" = {
+[LUA-print] -     "listView" = userdata: 0x15d14a80
+[LUA-print] -     "name"     = "began"
+[LUA-print] -     "x"        = 83.73046875
+[LUA-print] -     "y"        = 501.05072021484
+[LUA-print] - }
+[LUA-print] event name:began
+[LUA-print] dump from: [string "/Users/zinber/work/test/src/app/scenes/Battle..."]:69: in function 'touchListener_'
+[LUA-print] - "<var>" = {
+[LUA-print] -     "item"     = userdata: 0x15e2c160
+[LUA-print] -     "itemPos"  = 1
+[LUA-print] -     "listView" = userdata: 0x15d14a80
+[LUA-print] -     "name"     = "clicked"
+[LUA-print] -     "point" = {
+[LUA-print] -         "x" = 43.73046875
+[LUA-print] -         "y" = 6.0507202148438
+[LUA-print] -     }
+[LUA-print] - }
+[LUA-print] dump from: [string "/Users/zinber/work/test/src/app/scenes/Battle..."]:69: in function 'touchListener_'
+[LUA-print] - "<var>" = {
+[LUA-print] -     "listView" = userdata: 0x15d14a80
+[LUA-print] -     "name"     = "began"
+[LUA-print] -     "x"        = 76.08984375
+[LUA-print] -     "y"        = 465.79681396484
+[LUA-print] - }
+[LUA-print] event name:began
+[LUA-print] dump from: [string "/Users/zinber/work/test/src/app/scenes/Battle..."]:69: in function 'touchListener_'
+[LUA-print] - "<var>" = {
+[LUA-print] -     "item"     = userdata: 0x15e6eea8
+[LUA-print] -     "itemPos"  = 2
+[LUA-print] -     "listView" = userdata: 0x15d14a80
+[LUA-print] -     "name"     = "clicked"
+[LUA-print] -     "point" = {
+[LUA-print] -         "x" = 35.046844482422
+[LUA-print] -         "y" = 36.835876464844
+[LUA-print] -     }
+[LUA-print] - }
+[LUA-print] dump from: [string "/Users/zinber/work/test/src/app/scenes/Battle..."]:69: in function 'touchListener_'
+[LUA-print] - "<var>" = {
+[LUA-print] -     "listView" = userdata: 0x15d14a80
+[LUA-print] -     "name"     = "began"
+[LUA-print] -     "x"        = 87.375
+[LUA-print] -     "y"        = 387.84368896484
+[LUA-print] - }
+[LUA-print] event name:began
+[LUA-print] dump from: [string "/Users/zinber/work/test/src/app/scenes/Battle..."]:69: in function 'touchListener_'
+[LUA-print] - "<var>" = {
+[LUA-print] -     "item"     = userdata: 0x15d9d3d0
+[LUA-print] -     "itemPos"  = 3
+[LUA-print] -     "listView" = userdata: 0x15d14a80
+[LUA-print] -     "name"     = "clicked"
+[LUA-print] -     "point" = {
+[LUA-print] -         "x" = 47.375
+[LUA-print] -         "y" = 22.843688964844
+[LUA-print] -     }
+[LUA-print] - }
+[LUA-print] event name:began
+[LUA-print] event name:began
+[LUA-print] event name:began
